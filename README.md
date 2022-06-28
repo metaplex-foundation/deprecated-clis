@@ -1,5 +1,12 @@
 # Metaplex Deprecated JS Clis
 
+🚨 **Deprecated Repo**
+
+Please note that this GitHub repository is no longer being maintained. To use the Metaplex Candy Machine or to integrate Metaplex's programs with your JavaScript applications **please use the following**:
+
+- 🍬 [Sugar, the new Candy Machine CLI](https://github.com/metaplex-foundation/js)
+- 🐙 [JS SDK repository](https://github.com/metaplex-foundation/js)
+
 ## CANDY MACHINE
 
 https://user-images.githubusercontent.com/81876372/133098938-dc2c91a6-1280-4ee1-bf0e-db0ccc972ff7.mp4
