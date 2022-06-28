@@ -1,6 +1,6 @@
 # Metaplex Deprecated JS Clis
 
-🚨 **Deprecated Repo**
+🚨 **Deprecated Repo** 🚨
 
 Please note that this GitHub repository is no longer being maintained. To use the Metaplex Candy Machine or to integrate Metaplex's programs with your JavaScript applications **please use the following**:
 
